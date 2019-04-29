@@ -1,2 +1,2 @@
 # hello-world
-just try it
+Hello hunmans!
